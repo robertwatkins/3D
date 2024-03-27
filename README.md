@@ -2,12 +2,12 @@
 Files for 3D work
 
 I'd like to add chamfers like this:
-![Chamfer Experiment](ChamferExperiment.jpeg)
-[Chamfer Experiment Fusion File](ChamferExperiment.f3d)
+![Chamfer Experiment](ChamferExperiment.jpg)
+[Chamfer Experiment Fusion File](ChamferExperiment v3.f3d)
 
 Using this file:
-![Initials Experiement](InitialsExperiemnt.jpeg)
-[Initials Experiment Fusion File](Experiment Initials-Revisited.f3d)
+![Initials Experiement](InitialsExperiemnt.jpg)
+[Initials Experiment Fusion File](Experiment Initials-Revisited v3.f3d)
 
 The trouble is that I get an error:
 ```
