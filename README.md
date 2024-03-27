@@ -1,13 +1,13 @@
-# 3D
-Files for 3D work
+# Chamfer Question
+
 
 I'd like to add chamfers like this:
-![Chamfer Experiment](https://github.com/robertwatkins/3D/main/ChamferExperiment.jpg)
+![Chamfer Experiment](https://github.com/robertwatkins/3D/blob/main/ChamferExperiemnt.jpg)
 
 [Chamfer Experiment Fusion File](https://github.com/robertwatkins/3D/blob/main/Chamfer-experiment%20v3.f3d))
 
 Using this file:
-![Initials Experiement](https://github.com/robertwatkins/3D/main/InitialsExperiemnt.jpg)
+![Initials Experiement](https://github.com/robertwatkins/3D/blob/main/InitialsExperiment.jpg)
 
 [Initials Experiment Fusion File](https://github.com/robertwatkins/3D/blob/main/Experiment%20Initials-Revisited%20v3.f3d)
 
